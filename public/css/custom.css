@@ -1,0 +1,81 @@
+/* All Customize Edits Include in this File */
+
+/*=========================
+    General Tags
+=========================*/
+
+.delete-form{
+    display: inline;
+}
+
+.else-info{
+    color: #696969;
+    margin: 20px auto;
+    margin-top: 80px;
+    font-weight: 200;
+    text-align: center;
+
+}
+
+.form-btn-size{
+    padding: 3px 7px;
+    border-radius: 3px;
+}
+
+.select-choice{
+    padding: 5px 2px;  
+}
+.select-choice:hover{
+    background:rgb(89, 0, 255) ;  
+}
+
+/* Remove arrows => Chrome, Safari, Edge, Opera */
+.worker-create input::-webkit-outer-spin-button,
+.worker-create input::-webkit-inner-spin-button,
+.worker-edit input::-webkit-outer-spin-button,
+.worker-edit input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/*=========================
+    End General Tags
+=========================*/
+
+
+
+/*=========================
+    Worker Section
+=========================*/
+
+/* Edit Part */
+.worker-edit .worker-photo{
+    border-right: 1px solid #e9ecef;
+    height: 100%;
+}
+
+/*=========================
+    Worker Section
+=========================*/
+
+
+/*=========================
+    Jobs Section
+=========================*/
+
+/* Create Part */
+
+.job-create .worker-photo{
+    border-right: 1px solid #e9ecef;
+    height: 100%;
+}
+
+.job-create .icon-choice{
+    margin-top: 20px;
+}
+
+/*=========================
+    Jobs Section
+=========================*/
+
+
