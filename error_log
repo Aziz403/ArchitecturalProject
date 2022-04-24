@@ -1,0 +1,40 @@
+[05-Mar-2022 02:46:38 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/app/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/app/index.php on line 34
+[05-Mar-2022 02:46:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/app/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/app/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/app/index.php on line 34
+[30-Mar-2022 12:02:46 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:02:46 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:02:59 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:02:59 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:02 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:02 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:04 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:04 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:05 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:13 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:03:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:05:49 America/Boise] PHP Warning:  require(/home4/keytabte/public_html/card/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/keytabte/public_html/card/index.php on line 34
+[30-Mar-2022 12:05:49 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/keytabte/public_html/card/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/keytabte/public_html/card/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/keytabte/public_html/card/index.php on line 34
