@@ -1,0 +1,3 @@
+[submodule "public/template"]
+	path = public/template
+	url = https://github.com/wrappixel/matrix-admin-bt5.git
